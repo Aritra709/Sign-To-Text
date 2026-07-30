@@ -1,5 +1,5 @@
 # Sign-To-Text
-Run the
+Run the final_pred.py
 
 
 
