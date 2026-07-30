@@ -78,7 +78,7 @@ Once individual characters are predicted and compiled into words, the `pyttsx3` 
 * **IDE:** PyCharm / VS Code
 * **Python Version:** Python 3.9+
 
-| Package | Minimum Version |
+| Package | Required Version |
 | :--- | :--- |
 | `opencv-python` | 4.8.0 |
 | `mediapipe` | 0.10.11 |
