@@ -13,6 +13,7 @@ A vision-based Human-Computer Interface (HCI) designed to bridge the communicati
 ## 🚀 Live Demo
 
 Experience the live real-time translation model hosted on Hugging Face Spaces:  
+ [Don't forget to hit the record button]
 👉 **[Try the Interactive Demo](https://huggingface.co/spaces/Aritra907/S2T)**
 
 ---
